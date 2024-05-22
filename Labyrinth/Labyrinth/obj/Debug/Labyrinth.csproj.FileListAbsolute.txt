@@ -1,0 +1,10 @@
+A:\Новая папка (3)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe.config
+A:\Новая папка (3)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.exe
+A:\Новая папка (3)\Labyrinth\Labyrinth\bin\Debug\Labyrinth.pdb
+A:\Новая папка (3)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.AssemblyReference.cache
+A:\Новая папка (3)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Form1.resources
+A:\Новая папка (3)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.Properties.Resources.resources
+A:\Новая папка (3)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.GenerateResource.cache
+A:\Новая папка (3)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.csproj.CoreCompileInputs.cache
+A:\Новая папка (3)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.exe
+A:\Новая папка (3)\Labyrinth\Labyrinth\obj\Debug\Labyrinth.pdb
